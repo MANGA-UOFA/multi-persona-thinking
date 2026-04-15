@@ -1,5 +1,7 @@
 # Multi-Persona Thinking for Bias Mitigation in Large Language Models
 
+[![Venue: ACL Findings 2026](https://img.shields.io/badge/Venue-ACL%20Findings%202026-blue)](https://2026.aclweb.org/)
+
 ## Setup
 
 ```bash
